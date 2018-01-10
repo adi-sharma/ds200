@@ -8,4 +8,4 @@
 
 * As can be seen from the plots, the population of Haryana has steadily increased from 75905 in 1961 to 256860 in 2011, according to this data.
 
-* From the box plot, median is at 150000
+* From the box plot, median is at 150000.
